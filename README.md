@@ -28,7 +28,7 @@ thier upcoming to fame. And to honor Kurt Cobain
 ## Design 
 ### Colour Scheme
 * The two main used are black and white the front page we use blue and light blue for the background.
-###Typography
+### Typography
 * The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
 ### Imagery
 * Imagery is important. The large, Nav bar image is designed to be striking and catch the user's attention. It also a cover of the bands most famous album.
@@ -44,13 +44,7 @@ thier upcoming to fame. And to honor Kurt Cobain
 * HTML5
 * CSS3
 
-# Design
-Colour Scheme
-1.The two main colours used are Code Insititue red, and white.
-Typography
-1.The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-Imagery
-Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+
 # Frameworks, Libraries & Programs Used
 * Bootstrap 4.4.1:
 * Bootstrap was used to assist with the responsiveness and styling of the website.
@@ -111,7 +105,7 @@ bands manger , form the can book events or show, also a link to ticket master wh
  The user can go to the nav bar and find the "music page" and find a couple music videos and a spotify audio where they can go and check out more music if
 they choose to.
 
-#Frequent User Goals
+# Frequent User Goals
 * As a Frequent User, I want to know information on any new shows.
  The website would update as soon you sign up with your email on the front page or the music page.
 
