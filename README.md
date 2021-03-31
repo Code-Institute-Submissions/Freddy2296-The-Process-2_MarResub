@@ -21,9 +21,10 @@ thier upcoming to fame. And to honor Kurt Cobain
 * As a Returning Visitor, I want to find the best way to get in contact with the band with any questions I may have and how to book them for show's.
 * As a Returning Visitor, I want to find more sales on merchandise more discounts and more backstory on Kurt Cobain.
 ## Frequent User Goals
-As a Frequent User, I want to check new updates on tickets sales .
-As a Frequent User, I want to see different songs of nirvana .
-As a Frequent User, I want to sign up to get more discounts on merchandise.
+* As a Frequent User, I want to see where I can find information about the band and ticket sales .
+* As a Frequent User, I want to see multiple songs of nirvana and many music videos.
+* As a Frequent User, I want to find out how sign up to get more discounts on merchandise.
+* As a Frequent User, I want to able to get in contact with the band so i can hire them for shows.
 ## Design 
 ### Colour Scheme
 * The two main used are black and white the front page we use blue and light blue for the background.
