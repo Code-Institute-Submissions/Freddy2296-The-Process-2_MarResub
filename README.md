@@ -66,10 +66,10 @@ thier upcoming to fame. And to honor Kurt Cobain
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* W3C Markup Validator - https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddy2296.github.io%2FThe-process-%2F.
+* W3C Markup Validator - https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddy2296.github.io%2FThe-Process-2%2F.
 
 
-* W3C CSS Validator - http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffreddy2296.github.io%2FThe-process-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=
+* W3C CSS Validator - http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffreddy2296.github.io%2FThe-Process-2%2F.&profile=css3svg&usermedium=all&warning=1&vextwarning=
 # Testing User Stories from User Experience (UX) Section
 # First Time Visitor Goals
 * As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the band and their music.
@@ -121,6 +121,9 @@ know.
 * A large amount of testing was done to ensure that all pages were linking correctly.
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 ## Known Bugs
+* In the home the photo didn't load well i had trouble in git pushing the right one
+* The page might take a while to load 
+
 
 ## Deployment
 ### GitHub Pages
@@ -146,9 +149,9 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 * Open Git Bash
 * Change the current working directory to the location where you want the cloned directory to be made.
 * Type git clone, and then paste the URL you copied in Step 3.
-$ git clone  https://freddy2296.github.io/The-process-/.
+$ git clone  https://freddy2296.github.io/The-Process-2/.
 * Press Enter. Your local clone will be created.
-$ git clone  https://freddy2296.github.io/The-process-/.
+$ git clone https://freddy2296.github.io/The-Process-2/.
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
