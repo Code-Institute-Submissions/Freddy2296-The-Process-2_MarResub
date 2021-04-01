@@ -89,7 +89,7 @@
   /* The image used */
   background-image: url("https://www.teahub.io/photos/full/302-3021250_nirvana-band.jpg");
 
-  min-height: 2000px;
+  min-height: 750px;
 
   /* Center and scale the image nicely */
   background-position: center;
